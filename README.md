@@ -1,12 +1,10 @@
 # wired-brain-recipes
 
-'''
-javascript
-This is one
-this is other
-'''
 
-***
+for(int i = 0; i<0; i++) {
+  print hello;
+}
+
 
 - List 1
 - List 2
