@@ -8,8 +8,6 @@
 
 ***
 
--[] Mark everything
--[x] Don't mark
-
-files | Stores
-1 | heap
+* List
+  * List
+* List
