@@ -6,6 +6,13 @@
 * List
 * List
 
+'''java
+private void Offer() {
+  Integer i;
+  i = 6;
+}
+'''
+
 ***
 
 * List
